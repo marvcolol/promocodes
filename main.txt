@@ -1,1 +1,1 @@
-{ "BRAINROT", "LUXE", "TURBO", "MUSIC", "KINGPIN", "BUBU", "Jellyfish", "Summer25" }
+{ "BRAINROT", "LUXE", "TURBO" }
